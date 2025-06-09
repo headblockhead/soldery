@@ -60,3 +60,15 @@ This is currently only somewhat half-finished, but it is pretty late right now, 
 - 2 [https://www.youtube.com/watch?v=ZChSbpBbrt4](https://www.youtube.com/watch?v=ZChSbpBbrt4)
 - 3 [https://www.youtube.com/watch?v=fbBXPeC-FPQ](https://www.youtube.com/watch?v=fbBXPeC-FPQ)
 - 4 [https://www.youtube.com/watch?v=kcmpGbR6xZc](https://www.youtube.com/watch?v=kcmpGbR6xZc)
+
+## 2025-06-09
+
+### Hotplate
+
+I finished a first draft of the hotplate design!
+
+![](journal/hotplate-pcb-attempt-1a.png)
+
+However, bad news. I've had to put a pause on this project due to safety concerns over making my own resistive heater without a proper workshop.
+
+For now, I'll be working on my [open-rgbw-lightwall](https://github.com/headblockhead/open-rgbw-lightwall) project, but if/when I can, I'll return to this in the future.
